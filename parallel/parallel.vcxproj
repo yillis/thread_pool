@@ -24,6 +24,9 @@
   <ItemGroup>
     <ClInclude Include="ThreadPool.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{507690EA-F5B2-49A1-AEA5-CCA26C87C055}</ProjectGuid>
